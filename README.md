@@ -1,8 +1,10 @@
 <h1> PyBeat</h1>
 
-PyBeat is a simple beatmaker application built using the PyGame library on Python that allows users to create, save, and load beats with multiple instruments.
+PyBeat is a simple beatmaker application built using the PyGame library on Python that allows users to create, save, and load beats with multiple instruments. 
 
-Functionality: Create/save/load beats, select/unselect audio tracks, change BPM, change #beats, clear board
+My first Python application, and fun project to learn how to use PyGame to create both visual and functional elements. Good introduction on logic behind custom functions + event handling + read/write files.
+
+Features: Create/save/load beats, select/unselect audio tracks, change BPM, change #beats, clear board
 
 Based on the YouTube tutorial by [LeMasterTech](https://www.youtube.com/watch?v=PxnksbihWrE)
 
